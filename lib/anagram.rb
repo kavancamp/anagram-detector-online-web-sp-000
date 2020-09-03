@@ -12,4 +12,4 @@ class Anagram
     end
   end
 end
-© 2020 GitHub, 
+© 2020 GitHub,
